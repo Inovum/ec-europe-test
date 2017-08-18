@@ -1,0 +1,32 @@
+{
+	"enabledProducts": "Productos activados",
+	"takePhoto": "Tomar foto",
+	"watchVideo": "Ver video",
+	"openImage": "Ver imagen",
+	"cancel": "Cancelar",
+	"close": "Cerrar",
+	"disable": "Deshabilitar",
+	"ignore": "Ignorar",
+	"ok": "Aceptar",
+	"retry": "Reintentar",
+	"activateProduct":  "Activar Producto",
+	"workOffline": "Trabajar sin conexi\u00f3n",
+	"enableProductMessage": "Se activar\u00e1 el producto seleccionado",
+	"disableProductMessage": "Se desactivar\u00e1 el producto seleccionado",
+	"error": {
+		"invalidResponse": "Error de respuesta del servidor",
+		"connectionFailed": "Error de conexi\u00f3n",
+		"loadResourceFailed": "No se ha podido cargar el recurso",
+		"loadAllResourcesFromProductFailed": "No se han podido cargar los recursos del producto {0}",
+		"downloadFromAmazonFailed": "Error al intentar obtener un recuros remoto. Revise su conexi\u00f3n, o recurso no disponible",
+		"failToDownloadResource" : "Error al interntar descargar el recurso: "
+	},
+	"message": {
+		"establishingConnection": "Conectando con el servidor",
+		"productEnabled": "Producto activado",
+		"productDisabled": "Producto desactivado",
+		"fileLoading": "Descargando recurso",
+		"fileLoaded": "Descarga completada",
+		"photoSaved": "Foto guardada"
+	}
+}

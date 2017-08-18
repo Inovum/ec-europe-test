@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea8dabd1644f98d45b87f0ca5004fcfa
+timeCreated: 1495044941
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - prefabObjectRowSelector: {fileID: 1000013068313824, guid: b0388db4fab26834ea81042975f41ac2,
+      type: 2}
+  - selector: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

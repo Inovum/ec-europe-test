@@ -1,0 +1,15 @@
+*.iml
+.idea/*
+.svn
+*.log
+*.epoch
+*.ldb
+*.apk
+Builds/*
+*.keystore
+.vs/*
+Temp/*
+Library/*
+ProjectSettings/*
+*/libiPhone-lib.a
+Xcode-Project/*
